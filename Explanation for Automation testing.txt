@@ -1,0 +1,8 @@
+I used for this project "Selenium" framework with java because of these reasons :-
+ 
+1- it's the most popular to use selenium. 
+2- Data-driven Framework is straightforward in selenium.
+3- java is common used language in the automation.
+4- the usage of pom and oop in selenium is peace of cake which makes the code easy. 
+5- several libraries and choices available in selenium.
+6- Stability and chances to maintain the code in the future.
