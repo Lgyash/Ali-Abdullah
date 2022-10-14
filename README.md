@@ -13,4 +13,13 @@
 -Datadriven network
 -Sleep threads
 
+*How to setup* :-
+-install eclipse
+-import chrome jars
+-import selenium server jar
+-import using maven the datadriven frame work from this link https://poi.apache.org/download.html
+-have the excel attached with project
+-Run the Project !
+
+
 
